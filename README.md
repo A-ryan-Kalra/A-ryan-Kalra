@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A-ryan-Kalra
 - 👀 I’m interested in IOT
-- 🌱 I’m currently learning android development
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me ...
 
