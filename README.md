@@ -4,10 +4,10 @@
 <br/>
 I’m a dedicated Full Stack Developer, skilled in building robust web applications from frontend interfaces to backend with a strong focus on maintainability, performance, and clean architecture.
 
-`Feel free to reach out📣 If you need any help🚨 or If I can contribute to something exciting!🚀`
-
 <br/>
 
+<table><tr><td>Feel free to reach out📣 If you need any help🚨 or If I can contribute to something exciting!🚀</td></tr></table>
+ 
 ## Tech Stacks:
 
 <div align="center" style="display: inline_block">
