@@ -4,10 +4,6 @@
 <br/>
 I’m a dedicated Full Stack Developer, skilled in building robust web applications from frontend interfaces to backend with a strong focus on maintainability, performance, and clean architecture.
 
-<br/>
-
-<table><tr><td>Feel free to reach out📣 If you need any help🚨 or If I can contribute to something exciting!🚀</td></tr></table>
- 
 ## Tech Stacks:
 
 <div align="center" style="display: inline_block">
@@ -30,5 +26,13 @@ I’m a dedicated Full Stack Developer, skilled in building robust web applicati
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-ryan-Kalra&theme=github_dark)
 </div>
+<hr/>
+<br/>
+<div align="center">
+<table><tr><td>Feel free to reach out📣 If you need any help🚨 or If I can contribute to something exciting!🚀</td></tr></table>
+</div>
+
+
+ 
 
  
