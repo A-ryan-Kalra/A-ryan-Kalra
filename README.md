@@ -21,8 +21,9 @@ I’m a dedicated Full Stack Developer, skilled in building robust web applicati
 # 📊 Github Stats:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-ryan-Kalra&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=A-ryan-Kalra&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-ryan-Kalra&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=A-ryan-Kalra&theme=radical" alt="GitHub Streak" /></a>
+
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-ryan-Kalra&theme=github_dark)
 </div>
