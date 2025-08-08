@@ -10,8 +10,8 @@ I’m a dedicated Full Stack Developer, skilled in building robust web applicati
   <br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,mongodb,postgres,mysql,prisma" /><br>
-    <img src="https://skillicons.dev/icons?i=react,next,tailwind,python,nodejs,nestjs,go,docker,git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,mongodb,postgres,mysql,fastapi" /><br>
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,nestjs,go,docker,git,prisma,github,postman" />
   </a>
 </p>
 </div>
