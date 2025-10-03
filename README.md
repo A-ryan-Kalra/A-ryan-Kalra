@@ -1,8 +1,8 @@
 ## What's up!  I'm Aryan 👋🏻
-👩🏻‍💻 Full-Stack Engineer · ⚡ SpeedRunner 
+👩🏻‍💻 Full-Stack Engineer  | ⚙️ GenAi | ⚡ SpeedRunner 
 <br>
 <br/>
-Full Stack Engineer with hands-on experience building robust web applications from frontend interfaces to backend with a strong focus on maintainability, performance, and clean architecture.
+Full Stack Engineer with hands-on experience building robust web applications from frontend interfaces to backend with a strong focus on maintainability, performance, and complete architecture.
 
 
 <details>
