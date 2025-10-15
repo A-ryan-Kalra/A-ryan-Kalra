@@ -15,10 +15,12 @@ Full Stack Engineer with hands-on experience building robust web applications fr
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-%23323330?style=plastic&logo=python&logoColor=3776AB)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 
 
+## Gen AI
 
+![LangChain](https://img.shields.io/badge/LangChain-%23323330?style=plastic&logo=langchain&logoColor=%1E1F1F) ![LangGraph](https://img.shields.io/badge/LangGraph-%23323330?style=plastic&logo=langgraph&logoColor=%1E1F1F) ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23323330?style=plastic&logo=huggingface&logoColor=%1E1F1F) ![groq](https://img.shields.io/badge/groq-%23ED8B00.svg?style=plastic&logo=groq&logoColor=white)
 
 ## Web Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-%23010101.svg?style=plastic&logo=socket.io&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-%23010101.svg?style=plastic&logo=socket.io&logoColor=white)
 
 
 
