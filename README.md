@@ -1,7 +1,10 @@
 ## What's up!  I'm Aryan 👋🏻
-👩🏻‍💻 Full-Stack Engineer  | ⚙️ GenAi | ⚡ SpeedRunner 
-<br>
-<br/>
+👩🏻‍💻 Full-Stack Engineer  | ⚙️ GenAi | ⚡ SpeedRunner
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=A-ryan-Kalra&label=Profile%20views&color=0e75b6&style=flat" alt="A-ryan-Kalra" /> </p>
+
+
 Full Stack Engineer with hands-on experience building robust web applications from frontend interfaces to backend with a strong focus on maintainability, performance, and complete architecture.
 
 
@@ -46,8 +49,8 @@ Full Stack Engineer with hands-on experience building robust web applications fr
 <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-ryan-Kalra&layout=compact&langs_count=7&theme=radical"/>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=A-ryan-Kalra&theme=radical" alt="GitHub Streak" /></a>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=A-ryan-Kalra&show_icons=true&locale=en&theme=radical" alt="A-ryan-Kalra" /></p>
 
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-ryan-Kalra&theme=github_dark)
 </div>
 <hr/>
 <br/>
