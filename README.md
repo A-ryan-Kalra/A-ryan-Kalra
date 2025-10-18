@@ -2,10 +2,14 @@
 👩🏻‍💻 Full-Stack Engineer  | ⚙️ GenAi | ⚡ SpeedRunner
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=A-ryan-Kalra&label=Profile%20views&color=0e75b6&style=flat" alt="A-ryan-Kalra" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=A-ryan-Kalra&label=Profile%20views&color=0e75b6&style=flat" alt="A-ryan-Kalra" /> </p>
+ -->
 
+The creator of Scribble Pad & Full Stack Engineer with hands-on experience building robust web applications from frontend interfaces to backend with a strong focus on maintainability, performance, and complete architecture.
 
-Full Stack Engineer with hands-on experience building robust web applications from frontend interfaces to backend with a strong focus on maintainability, performance, and complete architecture.
+🔗 Check out my recent work - Scribble Pad: <br/>
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-redirect?style=plastic&logo=googlechrome&logoColor=white&color=4285F4)](https://chromewebstore.google.com/detail/scribble-pad/mjikafmehojamcedemookbjjnhpciehm?utm_source=item-share-cb) [![Firefox Add-on](https://img.shields.io/badge/Firefox%20Add--on-redirect?style=plastic&logo=firefoxbrowser&logoColor=white&color=FF7139)](https://addons.mozilla.org/en-US/firefox/addon/scribble-pad/)
+
 
 
 <details>
