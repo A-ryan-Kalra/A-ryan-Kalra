@@ -8,9 +8,10 @@
 The creator of Scribble Pad & Full Stack Engineer with hands-on experience building robust web applications from frontend interfaces to backend with a strong focus on maintainability, performance, and complete architecture.
 
 🔗 Check out my recent work - Scribble Pad: <br/>
-[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-redirect?style=plastic&logo=googlechrome&logoColor=white&color=4285F4)](https://chromewebstore.google.com/detail/scribble-pad/mjikafmehojamcedemookbjjnhpciehm?utm_source=item-share-cb) [![Firefox Add-on](https://img.shields.io/badge/Firefox%20Add--on-redirect?style=plastic&logo=firefoxbrowser&logoColor=white&color=FF7139)](https://addons.mozilla.org/en-US/firefox/addon/scribble-pad/)
+<br/>
+➤ [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-redirect?style=plastic&logo=googlechrome&logoColor=white&color=4285F4)](https://chromewebstore.google.com/detail/scribble-pad/mjikafmehojamcedemookbjjnhpciehm?utm_source=item-share-cb) <br/> ➤ [![Firefox Add-on](https://img.shields.io/badge/Firefox%20Add--on-redirect?style=plastic&logo=firefoxbrowser&logoColor=white&color=FF7139)](https://addons.mozilla.org/en-US/firefox/addon/scribble-pad/) <br/> ➤ [![Website](https://img.shields.io/badge/Website-redirect?style=plastic&logo=htmx&logoColor=orange&color=983ee8)](https://scribble-pad-fun.vercel.app/)
 
-
+<hr/>
 
 <details>
   <summary> 👉🏻 Show Details</summary>
