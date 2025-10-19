@@ -16,7 +16,7 @@ The creator of Scribble Pad & Full Stack Engineer with hands-on experience build
 <hr/>
 
 <details>
-  <summary> 👉🏻 Show Details</summary>
+  <summary> <h3>👉🏻 Show Details </h3></summary>
 
 ## 💻  Tech Stacks:
 
