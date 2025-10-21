@@ -27,7 +27,7 @@ The creator of Scribble Pad & Full Stack Engineer with hands-on experience build
 
 ## Gen AI
 
-![LangChain](https://img.shields.io/badge/LangChain-%23323330?style=plastic&logo=langchain&logoColor=%1E1F1F) ![LangGraph](https://img.shields.io/badge/LangGraph-%23323330?style=plastic&logo=langgraph&logoColor=%1E1F1F) ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23323330?style=plastic&logo=huggingface&logoColor=%1E1F1F) ![groq](https://img.shields.io/badge/groq-%23ED8B00.svg?style=plastic&logo=groq&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23323330?style=plastic&logo=langchain&logoColor=%1E1F1F) ![LangGraph](https://img.shields.io/badge/LangGraph-%23323330?style=plastic&logo=langgraph&logoColor=%1E1F1F) ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23323330?style=plastic&logo=huggingface&logoColor=%1E1F1F) ![groq](https://img.shields.io/badge/groq-%23ED8B00.svg?style=plastic&logo=groq&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-%23323330?style=plastic&logo=pinecone&logoColor=%1E1F1F)
 
 ## Web Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-%23010101.svg?style=plastic&logo=socket.io&logoColor=white)
