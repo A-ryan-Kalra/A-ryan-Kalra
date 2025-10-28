@@ -5,7 +5,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=A-ryan-Kalra&label=Profile%20views&color=0e75b6&style=flat" alt="A-ryan-Kalra" /> </p>
  -->
 
-The creator of Scribble Pad & Full Stack Engineer with hands-on experience building robust web applications from frontend interfaces to backend with a strong focus on maintainability, performance, and complete architecture.
+The creator of Scribble Pad & Full Stack Engineer with hands-on experience building robust web applications from frontend interfaces to backend, also worked extensively on various projects ranging from browser extension to developing multi-player games including AI driven projects.
+
 
 🔗 Check out my recent work - Scribble Pad: <br/>
 <br/>
@@ -61,11 +62,10 @@ The creator of Scribble Pad & Full Stack Engineer with hands-on experience build
 </div>
 <hr/>
 <br/>
+
 <div align="center">
-<table><tr><td>Feel free to reach out📣 If you need any help🚨 or If I can contribute to something exciting!🚀</td></tr></table>
+<table><tr><td>Check out my pinned repos to know more about me 🦹🏻🚀</td></tr></table>
 </div>
 
-
- 
 
  
