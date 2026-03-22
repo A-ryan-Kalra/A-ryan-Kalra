@@ -8,7 +8,7 @@
 The creator of Scribble Pad & Full Stack Engineer with hands-on experience building robust web applications from frontend interfaces to backend, also worked extensively on various projects ranging from browser extension to developing multi-player games including AI driven projects.
 
 
-🔗 Check out my recent work - Scribble Pad: <br/>
+🚀 Check out my recent work: `Scribble Pad - Draw and Save notes on Website`: <br/>
 <br/>
 ➤ [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-redirect?style=plastic&logo=googlechrome&logoColor=white&color=4285F4)](https://chromewebstore.google.com/detail/scribble-pad/mjikafmehojamcedemookbjjnhpciehm?utm_source=item-share-cb) <br/> ➤ [![Firefox Add-on](https://img.shields.io/badge/Firefox%20Add--on-redirect?style=plastic&logo=firefoxbrowser&logoColor=white&color=FF7139)](https://addons.mozilla.org/en-US/firefox/addon/scribble-pad/) <br/> ➤ [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-white?style=plastic&logo=producthunt&logoColor=orange)](https://www.producthunt.com/products/scribble-pad) <br/> ➤ [![Website](https://img.shields.io/badge/Website_(Scribble_Pad)-redirect?style=plastic&logo=htmx&logoColor=orange&color=983ee8)](https://www.scribblepad.org/)
 <br/>
