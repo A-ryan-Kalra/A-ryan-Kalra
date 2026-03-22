@@ -5,7 +5,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=A-ryan-Kalra&label=Profile%20views&color=0e75b6&style=flat" alt="A-ryan-Kalra" /> </p>
  -->
 
-The creator of Scribble Pad & Full Stack Engineer with hands-on experience building robust web applications from frontend interfaces to backend, also worked extensively on various projects ranging from browser extension to developing multi-player games including AI driven projects.
+The creator of Scribble Pad & Full Stack Engineer with hands-on experience building robust web applications from frontend interfaces to scaling backend.
 
 
 🚀 Check out my recent work: `Scribble Pad - Draw and Save notes on Website`: <br/>
@@ -55,11 +55,26 @@ The creator of Scribble Pad & Full Stack Engineer with hands-on experience build
 
 <div align="center">
 <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-ryan-Kalra&layout=compact&langs_count=7&theme=radical"/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=A-ryan-Kalra&theme=radical" alt="GitHub Streak" /></a>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=A-ryan-Kalra&show_icons=true&locale=en&theme=radical" alt="A-ryan-Kalra" /></p>
-
+<img align="" src="https://github-readme-stats.vercel.app/api?username=A-ryan-Kalra&show_icons=true&locale=en&theme=radical" alt="A-ryan-Kalra" />
 </div>
+
+<br/>
+
+# 🚀 Projects Worth Exploring
+- Worked on various projects ranging from browser extension`(Chrome & Firefox)` to developing multi-player games`(WebSocket)` including AI driven projects`(LangGraph,LangChain & Hugging Face)`.
+
+| Project                                                                                   | Genre             | Tech Stacks                            |      Description             |
+|---------------------------------------------------------------------------------|-------------------|--------------------------------------------------|------------------------|
+| [Canvas Mirror](https://github.com/A-ryan-Kalra/canvas_mirror)                  | Multiplayer Game  | `ReactJs, FastApi, WebSocket, Docker`              |Figma-inspired, where multiple users can draw sketches and interact with each other.                    |
+| [Huddle Hub](https://github.com/A-ryan-Kalra/huddle-hub)                        | Channel-based Messaging Platform  | `NextJs, Push Notification, Prisma, PWA, LiveKit, Socket.IO, Docker, Zustand, PostgresDb, Tanstack`              | Workspace messaging platform where users can communicate with each other and create custom channels in real-time.                    |
+| [Grid Clash](https://github.com/A-ryan-Kalra/multiplayer-game-grid-clash)       | Multiplayer Game  | `ReactJs, NodeJs, ExpressJs, WebSocket`            |Allows multiple users to add unicode character or emojis/letters to the blocks in a real-time.                        |
+| [AI Leave Tracker](https://github.com/A-ryan-Kalra/ai-leave-tracker)            | Gen AI            | `ReactJs, NodeJs, LangGraph, GROQ Llm, Tavily, JWT, Oauth 2.0, Zustand, Docker, Prisma, Postgres` | Built a smart AI-powered leave management system that approves, rejects, and tracks employees' leave in real time using API tool calling.`                       |
+<br/>
+ 
+
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=A-ryan-Kalra&theme=radical" alt="GitHub Streak" /></a> -->
+
+
 <hr/>
 <br/>
 
