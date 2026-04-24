@@ -65,13 +65,13 @@ The creator of Scribble Pad & Full Stack Engineer with hands-on experience build
 
 | Project                                                                                   | Genre             | Tech Stacks                            |      Description             |
 |---------------------------------------------------------------------------------|-------------------|--------------------------------------------------|------------------------|
+| [Banana Editor](https://banana-editor.vercel.app/)                  | Gen Ai  | `NextJS, Gemini AI, RAG, SEO Optimized, Framer Motion, TailwindCSS`              | An AI-powered image editing platform that allows users to generate images using simple prompts and editing tools.|
 | [Nandi Hills](https://nandihills.vercel.app/)                  | Freelance  | `NextJS, SSG, SEO Optimized, Framer Motion, TailwindCSS`              |Completely reusable and scalable website template, optimized for performance and SEO.|
 | [AI SAAS PRO](https://ai-saas-pro.vercel.app/)                  | Freelance  | `NextJS, SSG, SEO Optimized, Framer Motion,Canvas 2D API, TailwindCSS`              |Especially developed for my client, with a reusable template available for future projects.|
 | [Canvas Mirror](https://github.com/A-ryan-Kalra/canvas_mirror)                  | Multiplayer Game  | `ReactJs, FastApi, WebSocket, Docker`              |Figma-inspired, where multiple users can draw sketches and interact with each other.                    |
 | [AI Leave Tracker](https://github.com/A-ryan-Kalra/ai-leave-tracker)            | Gen AI            | `ReactJs, NodeJs, LangGraph, GROQ Llm, Tavily, JWT, Oauth 2.0, Zustand, Docker, Prisma, Postgres` | Built a smart AI-powered leave management system that approves, rejects, and tracks employees' leave in real time using API tool calling.                       |
 | [Streamly](https://github.com/A-ryan-Kalra/streamly-ytx)            | P2P Video Streaming       | `WebRTC P2P, Socket.IO, ReactJs, NodeJs` | Built a peer-to-peer video steaming and live calling using WebRTC.                |
 | [Grid Clash](https://github.com/A-ryan-Kalra/multiplayer-game-grid-clash)       | Multiplayer Game  | `ReactJs, NodeJs, ExpressJs, WebSocket`            |Allows multiple users to add unicode character or emojis/letters to the blocks in a real-time.                        |
-| [Huddle Hub](https://github.com/A-ryan-Kalra/huddle-hub)                        | Channel-based Messaging Platform  | `NextJs, Push Notification, Prisma, PWA, LiveKit, Socket.IO, Docker, Zustand, PostgresDb, Tanstack`              | Workspace messaging platform where users can communicate with each other and create custom channels in real-time.                    |
 <br/>
  
 
