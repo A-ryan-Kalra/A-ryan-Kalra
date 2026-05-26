@@ -1,5 +1,5 @@
 ## What's up!  I'm Aryan 👋🏻
-👩🏻‍💻 Performance Marketer | Analytics Associate | Website Builder
+👩🏻‍💻 Performance Marketer | Analytics Associate | Frontend Developer
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=A-ryan-Kalra&label=Profile%20views&color=0e75b6&style=flat" alt="A-ryan-Kalra" /> </p>
