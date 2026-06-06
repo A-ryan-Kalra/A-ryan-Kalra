@@ -1,11 +1,11 @@
 ## What's up!  I'm Aryan 👋🏻
-👩🏻‍💻 Performance Marketer | Analytics Associate | Frontend Developer
+👩🏻‍💻 Full-Stack Engineer  | ⚙️ GenAi | ⚡ SpeedRunner
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=A-ryan-Kalra&label=Profile%20views&color=0e75b6&style=flat" alt="A-ryan-Kalra" /> </p>
  -->
 
-The creator of Scribble Pad & Digital Marketer Specialist with hands-on experience running ad campaigns to build stunning websites.
+The creator of Scribble Pad & Full Stack Engineer with hands-on experience building robust web applications from frontend interfaces to scaling backend.
 
 
 🚀 Check out my recent work: `Scribble Pad - Draw and Save notes on Website`: <br/>
